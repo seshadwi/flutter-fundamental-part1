@@ -94,17 +94,17 @@ Menampilkan teks nama pada aplikasi.
 
 Buat folder baru `basic_widgets` di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world pada file `text_widget.dart`
 
-![Screenshot hello_world](images/13.png)
+![Screenshot hello_world](images/14.png)
 
 ## Langkah 2 : Image Widget
 
 Buat sebuah file `image_widget.dart` di dalam folder `basic_widgets` dengan isi kode berikut.
 
-![Screenshot hello_world](images/14.png)
-
 ![Screenshot hello_world](images/15.png)
 
 ![Screenshot hello_world](images/16.png)
+
+![Screenshot hello_world](images/17.png)
 
 # Praktikum 4 : Menerapkan Widget Material Design dan iOS Cupertino
 
@@ -112,19 +112,31 @@ Buat sebuah file `image_widget.dart` di dalam folder `basic_widgets` dengan isi 
 
 Buat file di `basic_widgets` > `loading_cupertino.dart`. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
 
+![Screenshot hello_world](images/18.png)
+
+
 ## Langkah 2 : Floating Action Button (FAB)
 
 Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
 
 Buat file di `basic_widgets` > `fab_widget.dart`. Import stateless widget dari material. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
 
+![Screenshot hello_world](images/19.png)
+
+
 ## Langkah 3 : Scaffold Widget
 
 Scaffold Widget digunakan untuk mengatur tata letak sesuai dengan material design. 
 
+![Screenshot hello_world](images/20.png)
+
+
 ## Langkah 4 : Dialog Widget
 
 Dialog widget pada fluttter memiliki dua jenis dialog yaitu `AlertDialog` dan `SimpleDialog`. Ubah isi kode `main.dart` seperti berikut.
+
+![Screenshot hello_world](images/21.png)
+
 
 ## Langkah 5 : Input dan Selection Widget 
 
@@ -132,9 +144,16 @@ Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yait
 
 Contoh penggunaan TextField Widget adalah sebagai berikut :
 
+![Screenshot hello_world](images/22.png)
+
+
 ## Langkah 6 : Date and Time Pickers
 
 Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers!
+
+![Screenshot hello_world](images/23.png)
+
+![Screenshot hello_world](images/24.png)
 
 # Tugas Praktikum
 
