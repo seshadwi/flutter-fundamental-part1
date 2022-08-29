@@ -94,9 +94,17 @@ Menampilkan teks nama pada aplikasi.
 
 Buat folder baru `basic_widgets` di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world pada file `text_widget.dart`
 
+![Screenshot hello_world](images/13.png)
+
 ## Langkah 2 : Image Widget
 
 Buat sebuah file `image_widget.dart` di dalam folder `basic_widgets` dengan isi kode berikut.
+
+![Screenshot hello_world](images/14.png)
+
+![Screenshot hello_world](images/15.png)
+
+![Screenshot hello_world](images/16.png)
 
 # Praktikum 4 : Menerapkan Widget Material Design dan iOS Cupertino
 
