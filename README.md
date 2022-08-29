@@ -6,7 +6,7 @@ A new Flutter project.
 
 ## Langkah 1
 
-Buka VS Code, lalu tekan tombol Ctrl + Shift + P, maka akan tampil Command Pallete, lalu ketik Flutter pilih New Application Project
+Buka VS Code, lalu tekan tombol **Ctrl + Shift + P**, maka akan tampil Command Pallete, lalu ketik **Flutter** pilih **New Application Project**
 
 ## Langkah 2
 
@@ -24,23 +24,23 @@ Jika sudah selesai, maka akan tampil sebagai berikut.
 
 ## Langkah 1
 
-Login ke akun GitHub, lalu buat repository baru dengan nama "flutter-fundamental-part1".
+Login ke akun **GitHub**, lalu buat repository baru dengan nama **"flutter-fundamental-part1"**.
 
 ## Langkah 2
 
-Lalu klik tombol "Create repository", kemudian akan tampil seperti gambar berikut.
+Lalu klik tombol **"Create repository"**, kemudian akan tampil seperti gambar berikut.
 
 ## Langkah 3
 
-Kembali ke VS code, project flutter hello_world, buka terminal pada menu Terimnal > New Terminal. Lalu ketikkan perintah berikut untuk inisialisasi git pada project. 
+Kembali ke VS code, project flutter **hello_world**, buka terminal pada menu **Terimnal > New Terminal**. Lalu ketikkan perintah berikut untuk inisialisasi git pada project. 
 
 ## Langkah 4
 
-Pilih menu Source Control di bagian kiri, lalu lakukan stages(+) pada file .gitignore untuk mengunggah file pertama ke repository Github.
+Pilih menu Source Control di bagian kiri, lalu lakukan **stages(+)** pada file `.gitignore` untuk mengunggah file pertama ke repository Github.
 
 ## Langkah 6
 
-Lakukan push dengan klik bagian menu titik tiga > Push.
+Lakukan push dengan klik bagian menu titik tiga > **Push**.
 
 ## Langkah 7
 
@@ -52,11 +52,11 @@ Lakukan hal yang sama pada file README.md
 
 ## Langkah 9 
 
-Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository sebagai berikut. 
+Lakukan push juga untuk semua file lainnya dengan pilih **Stage All Changes**. Beri pesan commit **"project hello_world"**. Maka akan tampil di repository sebagai berikut. 
 
 ## Langkah 10 
 
-Untuk menjalankan aplikasi bika tekan F5 atau Run > Start Debugging.
+Untuk menjalankan aplikasi bika tekan **F5** atau **Run > Start Debugging**.
 
 ## Langkah 11
 
@@ -72,13 +72,13 @@ Buat folder baru `basic_widgets` di dalam folder lib. Kemudian buat file baru di
 
 ## Langkah 2 : Image Widget
 
-Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.
+Buat sebuah file `image_widget.dart` di dalam folder `basic_widgets` dengan isi kode berikut.
 
 # Praktikum 4 : Menerapkan Widget Material Design dan iOS Cupertino
 
 ## Langkah 1 : Cupertino Button dan Loading Bar
 
-Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
+Buat file di `basic_widgets` > `loading_cupertino.dart`. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
 
 ## Langkah 2 : Floating Action Button (FAB)
 
