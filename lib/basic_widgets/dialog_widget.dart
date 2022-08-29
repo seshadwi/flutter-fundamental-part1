@@ -28,7 +28,9 @@ class DialogWidget extends StatelessWidget {
     // set up the AlertDialog
     AlertDialog alert = AlertDialog(
       title: const Text("My title"),
-      content: const Text("This is my message."),
+      content: const Text(
+        "Halo, Nama saya Sesha Dwi Lestari",
+      ),
       actions: [
         okButton,
       ],
