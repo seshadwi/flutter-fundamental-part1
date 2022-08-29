@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:hello_world/basic_widgets/image_widget.dart';
+import 'package:hello_world/basic_widgets/text_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -95,21 +97,27 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              // ignore: prefer_const_literals_to_create_immutables
-              children: [
-                // ignore: prefer_const_constructors
-                Text(
-                  "Sesha Dwi Lestari",
-                  // ignore: prefer_const_constructors
-                  style: TextStyle(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 28,
-                  ),
-                ),
-              ],
+            // Row(
+            //   mainAxisAlignment: MainAxisAlignment.center,
+            //   // ignore: prefer_const_literals_to_create_immutables
+            //   children: [
+            //     // ignore: prefer_const_constructors
+            //     Text(
+            //       "Sesha Dwi Lestari",
+            //       // ignore: prefer_const_constructors
+            //       style: TextStyle(
+            //         fontWeight: FontWeight.bold,
+            //         fontSize: 28,
+            //       ),
+            //     ),
+            //   ],
+            // ),
+            const MyImageWidget(),
+            // ignore: prefer_const_constructors
+            SizedBox(
+              height: 5,
             ),
+            const MyTextWidget(),
             // ignore: prefer_const_constructors
             SizedBox(
               height: 5,
