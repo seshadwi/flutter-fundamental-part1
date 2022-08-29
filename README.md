@@ -250,6 +250,8 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 ### 2. Dialog Widget
+
+    Diimplementasikan pada file `dialog_widget.dart`.
     
     Source Code 
 
@@ -303,6 +305,8 @@ class DialogWidget extends StatelessWidget {
 
 ### 3. Input & Selection Widget
 
+    Diimplementasikan pada file `input_widget.dart`.
+    
     Source code 
     
 ```
@@ -330,6 +334,10 @@ class InputWidget extends StatelessWidget {
 ```
 
 ### 4. Date & Time Picker
+
+    Diimplementasikan pada file `date_time_widget.dart`.
+
+    Source Code
 
 ```
 import 'dart:async';
