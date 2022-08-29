@@ -95,6 +95,25 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              // ignore: prefer_const_literals_to_create_immutables
+              children: [
+                // ignore: prefer_const_constructors
+                Text(
+                  "Sesha Dwi Lestari",
+                  // ignore: prefer_const_constructors
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 28,
+                  ),
+                ),
+              ],
+            ),
+            // ignore: prefer_const_constructors
+            SizedBox(
+              height: 5,
+            ),
             const Text(
               'You have pushed the button this many times:',
             ),
