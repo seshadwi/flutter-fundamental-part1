@@ -157,6 +157,10 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
 
 # Tugas Praktikum
 
+Struktur Project
+
+![Screenshot hello_world](images/25.png)
+
 ### 1. Scaffold Widget
 
  Diimplementasikan pada file `main.dart`.
