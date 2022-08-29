@@ -8,6 +8,8 @@ A new Flutter project.
 
 Buka VS Code, lalu tekan tombol **Ctrl + Shift + P**, maka akan tampil Command Pallete, lalu ketik **Flutter** pilih **New Application Project**
 
+![Screenshot hello_world](images/02.png)
+
 ## Langkah 2
 
 Pilih lokasi folder project, lalu pilih **Select a folder to create the project in**.
