@@ -398,6 +398,24 @@ class _DateTimePickerState extends State<DateTimePicker> {
 }
 ```
 
+## Output 
+
+- Dialog Widget
+
+![Screenshot hello_world](images/26.png)
+
+- Input & Selection Widget
+
+![Screenshot hello_world](images/27.png)
+
+
+- Date & Time Picker
+
+![Screenshot hello_world](images/28.png)
+
+
+
+
 
 
 
