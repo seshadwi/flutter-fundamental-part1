@@ -335,9 +335,9 @@ class InputWidget extends StatelessWidget {
 
 ### 4. Date & Time Picker
 
-    Diimplementasikan pada file `date_time_widget.dart`.
+ Diimplementasikan pada file `date_time_widget.dart`.
 
-    Source Code
+ Source Code
 
 ```
 import 'dart:async';
