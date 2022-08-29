@@ -14,13 +14,19 @@ Buka VS Code, lalu tekan tombol **Ctrl + Shift + P**, maka akan tampil Command P
 
 Pilih lokasi folder project, lalu pilih **Select a folder to create the project in**.
 
+![Screenshot hello_world](images/03.png)
+
 ## Langkah 3 
 
 Buat nama project **flutter hello_world** seperti berikut, lalu tekan Enter. Tunggu proses selesai.
 
+![Screenshot hello_world](images/04.png)
+
 ## Langkah 4
 
 Jika sudah selesai, maka akan tampil sebagai berikut.
+
+![Screenshot hello_world](images/05.png)
 
 # Praktikum 2 : Membuat Repository GitHub dan Laporan Praktikum
 
@@ -28,17 +34,25 @@ Jika sudah selesai, maka akan tampil sebagai berikut.
 
 Login ke akun **GitHub**, lalu buat repository baru dengan nama **"flutter-fundamental-part1"**.
 
+![Screenshot hello_world](images/06.png)
+
 ## Langkah 2
 
 Lalu klik tombol **"Create repository"**, kemudian akan tampil seperti gambar berikut.
+
+![Screenshot hello_world](images/07.png)
 
 ## Langkah 3
 
 Kembali ke VS code, project flutter **hello_world**, buka terminal pada menu **Terimnal > New Terminal**. Lalu ketikkan perintah berikut untuk inisialisasi git pada project. 
 
+![Screenshot hello_world](images/08.png)
+
 ## Langkah 4
 
 Pilih menu Source Control di bagian kiri, lalu lakukan **stages(+)** pada file `.gitignore` untuk mengunggah file pertama ke repository Github.
+
+![Screenshot hello_world](images/09.png)
 
 ## Langkah 6
 
@@ -48,17 +62,25 @@ Lakukan push dengan klik bagian menu titik tiga > **Push**.
 
 Ketikkan perintah berikut pada terminal untuk mengupload ke GitHub. 
 
+![Screenshot hello_world](images/10.png)
+
 ## Langkah 8
 
 Lakukan hal yang sama pada file README.md
+
+![Screenshot hello_world](images/10.png)
 
 ## Langkah 9 
 
 Lakukan push juga untuk semua file lainnya dengan pilih **Stage All Changes**. Beri pesan commit **"project hello_world"**. Maka akan tampil di repository sebagai berikut. 
 
+![Screenshot hello_world](images/11.png)
+
 ## Langkah 10 
 
 Untuk menjalankan aplikasi bika tekan **F5** atau **Run > Start Debugging**.
+
+![Screenshot hello_world](images/12.png)
 
 ## Langkah 11
 
