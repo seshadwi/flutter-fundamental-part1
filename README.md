@@ -10,11 +10,11 @@ Buka VS Code, lalu tekan tombol **Ctrl + Shift + P**, maka akan tampil Command P
 
 ## Langkah 2
 
-Pilih lokasi folder project, lalu pilih Select a folder to create the project in.
+Pilih lokasi folder project, lalu pilih **Select a folder to create the project in**.
 
 ## Langkah 3 
 
-Buat nama project flutter hello_world seperti berikut, lalu tekan Enter. Tunggu proses selesai.
+Buat nama project **flutter hello_world** seperti berikut, lalu tekan Enter. Tunggu proses selesai.
 
 ## Langkah 4
 
