@@ -68,19 +68,19 @@ Ketikkan perintah berikut pada terminal untuk mengupload ke GitHub.
 
 Lakukan hal yang sama pada file README.md
 
-![Screenshot hello_world](images/10.png)
+![Screenshot hello_world](images/11.png)
 
 ## Langkah 9 
 
 Lakukan push juga untuk semua file lainnya dengan pilih **Stage All Changes**. Beri pesan commit **"project hello_world"**. Maka akan tampil di repository sebagai berikut. 
 
-![Screenshot hello_world](images/11.png)
+![Screenshot hello_world](images/12.png)
 
 ## Langkah 10 
 
 Untuk menjalankan aplikasi bika tekan **F5** atau **Run > Start Debugging**.
 
-![Screenshot hello_world](images/12.png)
+![Screenshot hello_world](images/13.png)
 
 ## Langkah 11
 
