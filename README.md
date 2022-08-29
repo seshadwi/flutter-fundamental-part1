@@ -22,43 +22,43 @@ Jika sudah selesai, maka akan tampil sebagai berikut.
 
 # Praktikum 2 : Membuat Repository GitHub dan Laporan Praktikum
 
-# Langkah 1
+## Langkah 1
 
 Login ke akun GitHub, lalu buat repository baru dengan nama "flutter-fundamental-part1".
 
-# Langkah 2
+## Langkah 2
 
 Lalu klik tombol "Create repository", kemudian akan tampil seperti gambar berikut.
 
-# Langkah 3
+## Langkah 3
 
 Kembali ke VS code, project flutter hello_world, buka terminal pada menu Terimnal > New Terminal. Lalu ketikkan perintah berikut untuk inisialisasi git pada project. 
 
-# Langkah 4
+## Langkah 4
 
 Pilih menu Source Control di bagian kiri, lalu lakukan stages(+) pada file .gitignore untuk mengunggah file pertama ke repository Github.
 
-# Langkah 6
+## Langkah 6
 
 Lakukan push dengan klik bagian menu titik tiga > Push.
 
-# Langkah 7
+## Langkah 7
 
 Ketikkan perintah berikut pada terminal untuk mengupload ke GitHub. 
 
-# Langkah 8
+## Langkah 8
 
 Lakukan hal yang sama pada file README.md
 
-# Langkah 9 
+## Langkah 9 
 
 Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository sebagai berikut. 
 
-# Langkah 10 
+## Langkah 10 
 
 Untuk menjalankan aplikasi bika tekan F5 atau Run > Start Debugging.
 
-# Langkah 11
+## Langkah 11
 
 Menampilkan teks nama pada aplikasi. 
 
