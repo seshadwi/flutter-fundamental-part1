@@ -159,9 +159,9 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
 
 ### 1. Scaffold Widget
 
-    Diimplementasikan pada file `main.dart`.
+ Diimplementasikan pada file `main.dart`.
 
-    Source Code 
+ Source Code 
 
 ```
 import 'package:flutter/material.dart';
@@ -251,9 +251,9 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ### 2. Dialog Widget
 
-    Diimplementasikan pada file `dialog_widget.dart`.
+ Diimplementasikan pada file `dialog_widget.dart`.
     
-    Source Code 
+ Source Code :
 
 ```
 import 'package:flutter/material.dart';
@@ -305,9 +305,9 @@ class DialogWidget extends StatelessWidget {
 
 ### 3. Input & Selection Widget
 
-    Diimplementasikan pada file `input_widget.dart`.
+ Diimplementasikan pada file `input_widget.dart`.
     
-    Source code 
+ Source code :
     
 ```
 // ignore_for_file: prefer_const_constructors
@@ -337,7 +337,7 @@ class InputWidget extends StatelessWidget {
 
  Diimplementasikan pada file `date_time_widget.dart`.
 
- Source Code
+ Source Code :
 
 ```
 import 'dart:async';
